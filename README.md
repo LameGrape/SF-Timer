@@ -1,7 +1,7 @@
 # SF Timer
 A Stick Fight speedrun timer for BepInEx.
 
-The timer starts when spawn in, and stops when you die. It is useful for speedrun maps such as BOTF.
+The timer starts when spawn in. It is useful for speedrun maps such as BOTF.
 
 For a tutorial on installing BepInEx, see https://docs.bepinex.dev/articles/user_guide/installation/index.html. After installation (or if it already installed), download the DLL from the releases tab on the right, and put it into the BepInEx plugin folder.
 
